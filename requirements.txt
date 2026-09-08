@@ -1,0 +1,13 @@
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+streamlit
+lifelines
+scipy
+scikit-learn
+statsmodels
+openpyxl
+Pillow
+requests
